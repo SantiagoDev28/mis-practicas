@@ -41,4 +41,4 @@ function contadorLetras(palabra) {
     });
 }
 
-contadorLetras("palabra");
+contadorLetras("aritmetica");
