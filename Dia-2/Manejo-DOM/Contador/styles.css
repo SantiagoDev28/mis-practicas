@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+}
+
+.container{
+    display: flex;
+}
+
+.buttons{
+    padding: 1rem;
+    margin: 2rem;
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    align-self: auto;
+}
