@@ -15,7 +15,7 @@ function segundoMayor(numeros) {
             segNumMayor = numeros[i]
         }
     }
-    console.log(
+    console.log(g
         `El numero mayor es ${numMayor} y es segundo mayor es ${segNumMayor}`
     );
 }
